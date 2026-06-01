@@ -20,13 +20,10 @@ It is a source code of the youtube tutorial on [Build a Full E-commerce Applicat
 
 **Note:** Every tool and tech is free for personal use. 
 
-## Video tutorial 📺
-
-[Build a Full E-commerce Application Using .NET Core 10, SQL Server, MVC | Complete Tutorial](https://youtu.be/_NzPJSofid8?si=jHuiACNd3dxzT1Go)
 
 ## How to run the project?🌐
 
-### 1. With docker compse (Quickest way)
+### 1. With docker compse 
 
 It is the quickest way to run the application. You don't need to install anything on your system, except docker. Make sure you have installed `Docker` in your machine. Now, run the following command
 
